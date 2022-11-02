@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/faclproject/static/css/main.cf691da8.css",
+    "main.js": "/faclproject/static/js/main.ff9395cc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/faclproject/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/faclproject/index.html",
+    "main.cf691da8.css.map": "/faclproject/static/css/main.cf691da8.css.map",
+    "main.ff9395cc.js.map": "/faclproject/static/js/main.ff9395cc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/faclproject/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf691da8.css",
+    "static/js/main.ff9395cc.js"
+  ]
+}
